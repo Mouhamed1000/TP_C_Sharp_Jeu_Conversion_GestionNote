@@ -14,4 +14,4 @@ cd TP_C_Sharp_Jeu_Conversion_GestionNote
 ---
 ### 🌐 Notes
 
-- En naviguant vers les autres branches de ce projet vous pourriez trouver les autres programmes.
+- En naviguant vers les autres branches de ce projet vous pourriez trouver les autres programmes. 
